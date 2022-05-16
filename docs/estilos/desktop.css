@@ -15,7 +15,7 @@ html{
     flex-wrap: nowrap;
     justify-content: space-around;
     align-items: center;
-    width: 100vw;
+    width: auto;
     height: 10vh;
     background-color: #00035de1;
 } /*Container de header*/
@@ -75,8 +75,8 @@ background-color: #01022261;
 .container-Media{
     display: flex;
     flex-wrap: wrap;
-    width: 100vw;
-    height: 75vh;
+    width: auto;
+    height: 85vh;
     background-color: #020446;
     overflow: auto;
     }/*Declarando el css del container del main*/
@@ -179,8 +179,8 @@ background-color: #01022261;
         flex-wrap: nowrap;
         background-color: #000000;
         border: #ffffff solid .2em;
-        width: 100%;
-        height: 5vh;
+        width: auto;
+        height: auto;
     }/*footer container*/
     
     .Container-end-Networks{
